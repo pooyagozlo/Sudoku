@@ -5,7 +5,7 @@
 // In This update to the class, I am adding some methods to verify whether a sudoku board is valid
 // (isValid()) and whether it is fully and correctly solved (isSolved(). These methods ensure that all characters are
 // legal, rows,columns, 3x3 boxes contain no duplicates, and that the board contains exactly nine of each digit  if solved.
-
+//Small comment to update github
 
 
 import java.io.*;
